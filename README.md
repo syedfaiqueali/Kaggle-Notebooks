@@ -1,2 +1,2 @@
 # Kaggle-Notebooks
-This repo contains kaggle notebooks
+This repo contains my different kaggle notebooks.
